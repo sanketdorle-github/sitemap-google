@@ -4,7 +4,7 @@ import Shop from "./pages/Shop";
 import Login from "./pages/Login";
 import Products from "./pages/Products";
 
-import { HelmetProvider,Helmet } from "react-helmet-async";
+import { HelmetProvider } from "react-helmet-async";
 import Home from "./pages/Home";
 
 function App() {
