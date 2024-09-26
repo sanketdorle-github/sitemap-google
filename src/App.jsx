@@ -11,9 +11,6 @@ function App() {
   return (
     <>
     <HelmetProvider>
-     
-    
-
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<Home />} />
