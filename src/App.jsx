@@ -6,6 +6,7 @@ import Products from "./pages/Products";
 
 import { HelmetProvider } from "react-helmet-async";
 import Home from "./pages/Home";
+import Blog from "./pages/blog";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/shop" element={<Shop />} />
+          <Route path="/blog" element={<Blog />} />
          
           <Route path="/login" element={<Login />} />
           <Route path="/product" element={<Products />} />
