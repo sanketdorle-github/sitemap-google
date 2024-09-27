@@ -1,0 +1,3 @@
+https://sitemap-google.onrender.com/shop
+https://sitemap-google.onrender.com/login
+https://sitemap-google.onrender.com/product
