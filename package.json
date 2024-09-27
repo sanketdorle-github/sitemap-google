@@ -12,7 +12,7 @@
   },
   
 "reactSnap" : {
-  "source" : "./"
+  "source" : "./dist"
 },
   "dependencies": {
     "puppeteer": "^23.4.1",
