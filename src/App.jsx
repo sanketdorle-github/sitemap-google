@@ -6,7 +6,7 @@ import Products from "./pages/Products";
 
 import { HelmetProvider } from "react-helmet-async";
 import Home from "./pages/Home";
-import Blog from "./pages/blog";
+import Blog from "./pages/Blog";
 
 function App() {
   return (
