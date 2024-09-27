@@ -21,18 +21,7 @@ const Blog = () => {
 
   return (
     <div>
-      <header>
-        <div className="container">
-          <h1>My Awesome Blog</h1>
-          <nav>
-            <ul>
-              <li><a href="/">Home</a></li>
-              <li><a href="/about">About</a></li>
-              <li><a href="/contact">Contact</a></li>
-            </ul>
-          </nav>
-        </div>
-      </header>
+      
 
       <main>
         <div className="container">
